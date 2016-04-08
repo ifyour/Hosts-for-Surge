@@ -8,8 +8,8 @@
 
 Host 文件 | Raw hosts | 域名数
 ---------------- |:---------:|:-------------:
-Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 4067
-Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 4067
+Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 3791
+Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 3791
 
 
 ## 使用
