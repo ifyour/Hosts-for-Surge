@@ -4,17 +4,17 @@
 ![License](https://api.travis-ci.org/2ndalpha/gasmask.svg)
 
 
-这是一份 Hosts 列表，按照 Surge 配置文件生成的，每3天更新一次，欢迎使用！无需代理服务器支持 Wikipedia、Google、Facebook、Twitter、Instagram等。
+这是一份 Hosts 列表，按照 Surge 的配置文件规则生成的，每3天更新一次，欢迎使用！无需再配置代理服务器。支持 Wikipedia、Google、Facebook、Twitter、Instagram等。
 
 Host 文件 | Raw hosts | 域名数
----------------- |:---------:|:-------------:
+---------|:---------:|:---------:
 Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 3791
 Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 3791
 
 
 ## 使用
 
-1. 复制此 Hosts 镜像的地址（推荐 Coding 速度更快）：`https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf`
+1. 复制 Hosts 镜像的地址（推荐 Coding 速度更快）：`https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf`
 2. 打开 Surge，点几右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL。
 3. 粘贴
 4. 点击`OK`后，保存！启用当前规则，Enjoy it！
