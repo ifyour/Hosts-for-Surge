@@ -14,7 +14,7 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 
 ## 使用
 
-1. 复制 Hosts 镜像的地址（推荐 Coding 速度更快）：`https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf`
+1. 复制 Hosts 的镜像地址（推荐 Coding 速度更快）：`https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf`
 2. 打开 Surge，点几右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL。
 3. 粘贴
 4. 点击`OK`后，保存！启用当前规则，Enjoy it！
