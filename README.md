@@ -15,8 +15,8 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 
 ## 使用
 1. 扫描二维码并复制 URL，或者打开 Safari 输入本项目短网址：`dwz.cn/ifyour`，
-2. 长按`link`选择复制（推荐 Coding 速度更快）
-3. 打开 Surge，点几右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
+2. 长按`link`选择拷贝（推荐 Coding 速度更快）
+3. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
 4. 粘贴
 5. 点击`OK`后，保存！启用当前规则，Enjoy it！
 
