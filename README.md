@@ -8,8 +8,8 @@
 
 Host 文件 | Raw hosts | 域名数
 ---------|:---------:|:---------:
-Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 3791
-Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 3791
+Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 4980
+Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 4980
 
 ![hosts for surge QR](http://ww2.sinaimg.cn/large/6057861cgw1f2qgmw5a3qg203o03oa9t.gif)
 
@@ -27,8 +27,13 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 * Https 全程加密
 * 不干扰本地连接
 
+## 注意
+* 配合使用 Https 效果更佳，例如访问 Google 国际版:http**s**://www.google.com/ncr
+* 配合 DNS 效果更佳，推荐：[PandaDNS](https://dns.pandadns.xyz/) 或者 Google Public DNS：8.8.8.8/8.8.4.4
+* 若还有其它问题请尝试重启设备
 
-## 数据来源
+
+## 来源
 
 数据来自 [txthinking/google-hosts](https://github.com/txthinking/google-hosts)、[racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
 
