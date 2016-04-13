@@ -30,7 +30,7 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 ## 注意
 * 配合使用 Https 效果更佳，例如访问 Google 国际版:[http**s**://www.google.com/ncr](http**s**://www.google.com/ncr)
 * 配合 DNS 效果更佳，推荐：[PandaDNS](https://dns.pandadns.xyz/) 或者 Google Public DNS：8.8.8.8/8.8.4.4
-* 若还有其它问题请尝试重启设备
+* 若有其它问题请尝试重启设备
 
 
 ## 来源
