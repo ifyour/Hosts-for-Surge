@@ -8,8 +8,8 @@
 
 Host 文件 | Raw hosts | 域名数
 ---------|:---------:|:---------:
-Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 3446
-Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 3446
+Github  | [link](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) | 5085
+Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hosts.conf) | 5085
 
 ![hosts for surge QR](http://ww2.sinaimg.cn/large/6057861cgw1f2qgmw5a3qg203o03oa9t.gif)
 
@@ -35,7 +35,7 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 
 ## 来源
 
-数据来自 [txthinking/google-hosts](https://github.com/txthinking/google-hosts)、[racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
+数据来自 [cnAnonymous/hosts](https://github.com/cnAnonymous/hosts)、[racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
 
 ## License
 Licensed under The [MIT](https://github.com/txthinking/google-hosts/blob/master/LICENSE) License
