@@ -15,10 +15,10 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 
 ## 使用
 1. 扫描二维码并复制 URL，或者打开 Safari 输入本项目短网址：`dwz.cn/ifyour`，
-2. 长按`link`选择拷贝（推荐 Coding 速度更快）
-3. 打开 Surge，点击右上角`Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
+2. 长按 `link` 选择拷贝（推荐 Coding 速度更快）
+3. 打开 Surge，点击右上角 `Edit`，选择`Download Configuration from URL`，添加刚才复制的 URL
 4. 粘贴
-5. 点击`OK`后，保存！启用当前规则，Enjoy it！
+5. 点击 `OK` 后，保存！启用当前规则，Enjoy it！
 
 ## 优点
 
@@ -31,18 +31,13 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 ## 注意
 * 更新hosts数据请执行[使用](https://github.com/ifyour/Hosts-for-Surge#使用)第三步覆盖本地hosts数据
 * 配合使用 Https 效果更佳，例如访问 Google 国际版:[http**s**://www.google.com/ncr](http**s**://www.google.com/ncr)
-* 配合 DNS 效果更佳，推荐：[PandaDNS](https://dns.pandadns.xyz/) 或者 Google Public DNS：8.8.8.8/8.8.4.4
+* 配合 DNS 效果更佳，推荐：Google Public DNS：8.8.8.8/8.8.4.4
 * 若有其它问题请尝试重启设备
 
 
 ## 来源
 
-数据来自 [cnAnonymous/hosts](https://github.com/cnAnonymous/hosts)、[racaljk/hosts](https://github.com/racaljk/hosts) 等 ，再次向维护 Hosts 列表的人表示感谢！
+数据来自 [racaljk/hosts](https://github.com/racaljk/hosts)，再次向维护 Hosts 列表的人表示感谢！
 
 ## License
 Licensed under The [MIT](https://github.com/txthinking/google-hosts/blob/master/LICENSE) License
-
-
-
-
-
