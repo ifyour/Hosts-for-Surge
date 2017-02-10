@@ -40,4 +40,4 @@ Coding | [link](https://coding.net/u/ifyour/p/hosts-for-Surge/git/raw/master/hos
 数据来自 [racaljk/hosts](https://github.com/racaljk/hosts)，再次向维护 Hosts 列表的人表示感谢！
 
 ## License
-Licensed under The [MIT](https://github.com/txthinking/google-hosts/blob/master/LICENSE) License
+Licensed under The MIT License
