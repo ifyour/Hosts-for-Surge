@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-orange.svg)
 
-**重要提醒:** 本仓库暂停维护, 可访问 [racaljk/hosts](https://github.com/racaljk/hosts/blob/master/surge.conf) 获取最新 `surge.conf`
+**重要提醒:** 本仓库暂停维护, 可访问 [racaljk/hosts](https://raw.githubusercontent.com/racaljk/hosts/master/surge.conf) 获取最新 `surge.conf`
 
 这是一份 [Hosts](https://zh.wikipedia.org/wiki/Hosts%E6%96%87%E4%BB%B6) 列表，按照 [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-proxy/id1040100637?mt=8) 的配置文件规则生成的，~~每3天更新一次~~，欢迎使用！无需再配置代理服务器，支持 Wikipedia、Google、Facebook、Twitter、Instagram等。
 
